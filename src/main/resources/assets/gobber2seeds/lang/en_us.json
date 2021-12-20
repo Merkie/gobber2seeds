@@ -1,0 +1,19 @@
+{
+    "key.categories.gobber2seeds": "Gobber Seeds",
+
+	"item.gobber2seeds.gobber2_seed": "Gobber Seed",
+	"item.gobber2seeds.gobber2_seed.line1": "Plant on farmland. Used to grow Gobber Plants, which drop Globettes",
+	"item.gobber2seeds.gobber2_seed_nether": "Nether Gobber Seed",
+	"item.gobber2seeds.gobber2_seed_nether.line1": "Plant on farmland. Used to grow Nether Gobber Plants, which drop Nether Globettes",
+	"item.gobber2seeds.gobber2_seed_end": "End Gobber Seed",
+	"item.gobber2seeds.gobber2_seed_end.line1": "Plant on farmland. Used to grow End Gobber Plants, which drop End Globettes",
+
+	"block.gobber2seeds.gobber2_plant": "Gobber Plant",
+	"block.gobber2seeds.gobber2_plant_nether": "Nether Gobber Plant",
+	"block.gobber2seeds.gobber2_plant_end": "End Gobber Plant",
+	"item.gobber2seeds.gobber2_plant": "Gobber Plant",
+	"item.gobber2seeds.gobber2_plant_nether": "Nether Gobber Plant",
+	"item.gobber2seeds.gobber2_plant_end": "End Gobber Plant",
+
+	"itemGroup.gobber2seeds": "Gobber 2 Seeds"
+}

@@ -1,0 +1,22 @@
+{
+ 	"block.gobber2seeds.gobber2_lucky_block": "Блок удачи Gobber",
+
+ 	"key.categories.gobber2seeds": "Gobber 2",
+ 	"gobber2seeds.key.toggleRingEnderchest": "Кольцо открытия Сундука Края для слота Curios",
+
+ 	"item.gobber2seeds.gobber2_seed": "Семя Gobber",
+ 	"item.gobber2seeds.gobber2_seed.line1": "Растение для сельхозугодий. Используется для выращивания растений Gobber, которые сбрасывают глоубеты",
+ 	"item.gobber2seeds.gobber2_seed_nether": "Адское семя Gobber",
+ 	"item.gobber2seeds.gobber2_seed_nether.line1": "Растение для сельхозугодий. Используется для выращивания адских растений Gobber, которые сбрасывают адские глоубеты",
+ 	"item.gobber2seeds.gobber2_seed_end": "Семя Края Gobber",
+ 	"item.gobber2seeds.gobber2_seed_end.line1": "Растение для сельхозугодий. Используется для выращивания растений Края Gobber, которые сбрасывают глоубеты Края",
+
+ 	"block.gobber2seeds.gobber2_plant": "Растение Gobber",
+ 	"block.gobber2seeds.gobber2_plant_nether": "Адское растение Gobber",
+ 	"block.gobber2seeds.gobber2_plant_end": "Растение Края Gobber",
+ 	"item.gobber2seeds.gobber2_plant": "Растение Gobber",
+ 	"item.gobber2seeds.gobber2_plant_nether": "Адское растение Gobber",
+ 	"item.gobber2seeds.gobber2_plant_end": "Растение Края Gobber",
+
+ 	"itemGroup.gobber2seeds": "Gobber 2"
+ }

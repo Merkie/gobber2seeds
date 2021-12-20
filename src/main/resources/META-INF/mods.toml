@@ -1,0 +1,40 @@
+modLoader="javafml" #mandatory
+
+loaderVersion="[34,)" #mandatory (36 is current forge version)
+
+credits="Thanks to kwpugh for the code!" #optional
+
+authors="kwpugh, archer" #optional
+license="MIT"
+
+[[mods]] #mandatory
+modId="gobber2seeds" #mandatory
+version="1.18.1" #mandatory
+displayName="Gobber 2 Seeds" #mandatory
+description='''
+Gobber 2... But with seeds!
+'''
+
+
+[[dependencies.gobber2seeds]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[34,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.gobber2seeds]] #optional
+    modId="gobber2" #mandatory
+    mandatory=true #mandatory
+    versionRange="[2.5.0,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+
+
+# Here's another dependency
+[[dependencies.gobber2seeds]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.1]"
+    ordering="NONE"
+    side="BOTH"

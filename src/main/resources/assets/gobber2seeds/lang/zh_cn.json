@@ -1,0 +1,21 @@
+{
+ 	"block.gobber2seeds.gobber2_lucky_block": "戈伯幸运方块",
+	
+ 	"key.categories.gobber2seeds": "戈伯2",
+
+ 	"item.gobber2seeds.gobber2_seed": "戈伯种子",
+ 	"item.gobber2seeds.gobber2_seed.line1": "在耕地上种植。 用来种植戈伯球",
+ 	"item.gobber2seeds.gobber2_seed_nether": "地狱戈伯种子",
+ 	"item.gobber2seeds.gobber2_seed_nether.line1": "在耕地上种植，用来种植地狱戈伯球",
+ 	"item.gobber2seeds.gobber2_seed_end": "末影戈伯种子",
+ 	"item.gobber2seeds.gobber2_seed_end.line1": "在耕地上种植，用来种植末影戈伯球",
+ 	
+	"block.gobber2seeds.gobber2_plant": "戈伯植物",
+ 	"block.gobber2seeds.gobber2_plant_nether": "地狱戈伯植物",
+ 	"block.gobber2seeds.gobber2_plant_end": "末影戈伯植物",
+ 	"item.gobber2seeds.gobber2_plant": "戈伯植物",
+ 	"item.gobber2seeds.gobber2_plant_nether": "地狱戈伯植物",
+ 	"item.gobber2seeds.gobber2_plant_end": "末影戈伯植物",
+	
+	"itemGroup.gobber2seeds": "戈伯2"
+ }
