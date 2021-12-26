@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "gobber2seeds:gobber2_seed"
+      },
+      {
+        "item": "gobber2seeds:gobber2_seed"
+      },
+      {
+        "item": "gobber2seeds:gobber2_seed"
+      },
+      {
+        "item": "gobber2seeds:gobber2_seed"
+      },
+      {
+        "item": "gobber2seeds:gobber2_seed"
+      },
+      {
+        "item": "gobber2seeds:gobber2_seed"
+      },
+      {
+        "item": "gobber2seeds:gobber2_seed"
+      },
+      {
+        "item": "gobber2seeds:gobber2_seed"
+      },
+      {
+        "item": "gobber2seeds:gobber2_seed"
+      }
+    ],
+    "result": {
+      "item": "gobber2:gobber2_globette"
+    }
+  }

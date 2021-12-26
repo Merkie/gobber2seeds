@@ -2,8 +2,8 @@ Manifest-Version: 1.0
 Specification-Title: gobber2seeds
 Specification-Vendor: gobber2seedssareus
 Specification-Version: 1
-Implementation-Title: gseeds
+Implementation-Title: gobber2seeds
 Implementation-Version: 1.0
 Implementation-Vendor: gobber2seedssareus
-Implementation-Timestamp: 2021-12-19T23:08:27-0600
+Implementation-Timestamp: 2021-12-26T10:25:29-0600
 
